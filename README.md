@@ -31,7 +31,7 @@ The `remove-threat.py` script is designed to be run on Windows systems. It uses 
 2. Run the script from the command line:
 
    ```bash
-   python remove-threat.py
+   pyinstaller -F --out=C:\Program Files (x86)\ossec-agent\active-response\bin\ remove-threat.py
    ```
 
    Note: Make sure to run the command with appropriate privileges to access and remove files.
