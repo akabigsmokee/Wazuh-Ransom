@@ -45,7 +45,3 @@ Use these configurations and scripts at your own risk. Make sure to thoroughly t
 ## Contributions
 
 Contributions are welcome! If you have improvements, bug fixes, or additional features to suggest, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
